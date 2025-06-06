@@ -1,0 +1,21 @@
+{
+  "name": "short-url",
+  "version": "1.0.0",
+  "description": "Acortador de URLs con estadísticas",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "nanoid": "^5.0.3",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+} 
