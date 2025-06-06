@@ -297,6 +297,4 @@ Si encuentras algún problema o tienes alguna sugerencia:
 - Ejecuta `npm install` en la raíz y en la carpeta frontend
 - Verifica que tengas la versión correcta de Node.js
 
-## ✨ Agradecimientos
 
-Agradecemos a todos los contribuidores que han ayudado a mejorar este proyecto y a la comunidad de código abierto por las herramientas y bibliotecas utilizadas.
